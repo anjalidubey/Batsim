@@ -1,0 +1,2 @@
+# Batsim
+Battery balancing algorithm
